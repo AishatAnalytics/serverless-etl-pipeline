@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-04-28T13:39:30.487954",
+  "total_revenue": 27299.43,
+  "total_transactions": 20,
+  "category_summary": [
+    {
+      "category": "Electronics",
+      "total_revenue": 22199.670000000002,
+      "total_quantity": 33,
+      "avg_price": 716.6566666666668,
+      "num_transactions": 12
+    },
+    {
+      "category": "Furniture",
+      "total_revenue": 5099.76,
+      "total_quantity": 24,
+      "avg_price": 224.99,
+      "num_transactions": 8
+    }
+  ],
+  "region_summary": [
+    {
+      "region": "East",
+      "total_revenue": 4299.889999999999,
+      "total_quantity": 11
+    },
+    {
+      "region": "North",
+      "total_revenue": 11599.86,
+      "total_quantity": 14
+    },
+    {
+      "region": "South",
+      "total_revenue": 6749.83,
+      "total_quantity": 17
+    },
+    {
+      "region": "West",
+      "total_revenue": 4649.85,
+      "total_quantity": 15
+    }
+  ],
+  "product_summary": [
+    {
+      "product": "Phone",
+      "total_revenue": 10799.82,
+      "total_quantity": 18
+    },
+    {
+      "product": "Laptop",
+      "total_revenue": 8999.91,
+      "total_quantity": 9
+    },
+    {
+      "product": "Desk",
+      "total_revenue": 2999.9,
+      "total_quantity": 10
+    },
+    {
+      "product": "Monitor",
+      "total_revenue": 2399.94,
+      "total_quantity": 6
+    },
+    {
+      "product": "Chair",
+      "total_revenue": 2099.86,
+      "total_quantity": 14
+    }
+  ],
+  "claude_insights": "# Sales Data Analysis\n\n## Top 3 Business Insights\n\n1. **Electronics dominates revenue** - Contributing 81.3% of total revenue ($22,200) from only 60% of transactions, Electronics has 3x higher average transaction value ($716.66) vs Furniture ($224.99).\n\n2. **North region outperforms significantly** - North generates 42.5% of revenue ($11,600) with only 24.6% of quantity sold, indicating higher-value purchases or better upselling.\n\n3. **Phone is the revenue driver** - Phones alone account for 39.6% of total revenue ($10,800), making it the single most critical product line.\n\n## Best Performers\n\n- **Category:** Electronics ($22,199.67 revenue, 12 transactions)\n- **Region:** North ($11,599.86 revenue, 14 units)\n\n## Revenue Optimization Recommendations\n\n1. **Expand Electronics in East region** - East has lowest revenue ($4,300); cross-promote high-margin electronics there.\n2. **Bundle Furniture with Electronics** - Chair and Desk have high volume but low revenue; create bundles with monitors/laptops.\n3. **Replicate North's success** - Analyze North's sales tactics and apply to underperforming East and West regions.\n\n## Concerning Trends to Watch\n\n- **Regional imbalance** - East and West combined ($8,950) still trail North alone; investigate market coverage gaps.\n- **Furniture underperformance** - 40% of transactions but only 18.7% of revenue; evaluate if shelf space/effort is justified.\n- **Low laptop volume** - Only 9 units sold despite $999.99 price point; potential supply or demand issue."
+}
